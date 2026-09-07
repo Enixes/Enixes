@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=280&color=0:1e293b,50:4338ca,100:0f766e&text=Asu%20Singh&fontSize=72&fontColor=ffffff&animation=scaleIn&fontAlignY=42&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Performance%20Engineering&descAlignY=65&descSize=18&stroke=cbd5e1&strokeWidth=1" alt="Asu Singh" />
+<img width="100%" src="./assets/hero.svg" alt="Asu Singh — Senior Software Engineer focused on distributed systems and performance engineering" />
 
 <a href="https://linkedin.com/in/asusingh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://asusingh.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Live portfolio" /></a>
