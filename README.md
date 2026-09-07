@@ -11,10 +11,6 @@
 
 I build **high-throughput, failure-tolerant systems** for workloads where latency, scale and reliability matter.
 
-<br>
-
-<img width="88%" src="https://github-widgetbox.vercel.app/api/profile?username=Enixes&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub profile stats" />
-
 </div>
 
 ---
