@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&height=280&color=0:0f172a,45:312e81,100:0f766e&text=Asu%20Singh&fontSize=72&fontColor=ffffff&animation=scaleIn&fontAlignY=42&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Performance%20Engineering&descAlignY=65&descSize=18&stroke=94a3b8&strokeWidth=1" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=blur&height=280&color=0:f8fafc,45:e2e8f0,100:ccfbf1&text=Asu%20Singh&fontSize=72&fontColor=0f172a&animation=scaleIn&fontAlignY=42&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Performance%20Engineering&descAlignY=65&descSize=18&stroke=475569&strokeWidth=1" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=280&color=0:f8fafc,45:e2e8f0,100:ccfbf1&text=Asu%20Singh&fontSize=72&fontColor=0f172a&animation=scaleIn&fontAlignY=42&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Performance%20Engineering&descAlignY=65&descSize=18&stroke=475569&strokeWidth=1" alt="Asu Singh" />
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=280&color=0:1e293b,50:4338ca,100:0f766e&text=Asu%20Singh&fontSize=72&fontColor=ffffff&animation=scaleIn&fontAlignY=42&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Performance%20Engineering&descAlignY=65&descSize=18&stroke=cbd5e1&strokeWidth=1" alt="Asu Singh" />
 
 <a href="https://linkedin.com/in/asusingh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://asusingh.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Live portfolio" /></a>
@@ -108,11 +104,7 @@ Peer-reviewed work applying a hybrid meta-heuristic optimization technique to me
 ## 🧠 Problems I like working on
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/interests-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/interests-light.svg" />
-    <img width="100%" src="./assets/interests-light.svg" alt="Distributed systems, concurrency, tail latency, caching and JVM runtime behaviour, failure recovery and observability, and applied machine learning" />
-  </picture>
+  <img width="100%" src="./assets/interests.svg" alt="Distributed systems, concurrency, tail latency, caching and JVM runtime behaviour, failure recovery and observability, and applied machine learning" />
 </div>
 
 I’m especially interested in systems questions where **average-case performance hides the real operational story**.
@@ -121,10 +113,6 @@ I’m especially interested in systems questions where **average-case performanc
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0f172a,45:312e81,100:0f766e" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:f8fafc,45:e2e8f0,100:ccfbf1" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:f8fafc,45:e2e8f0,100:ccfbf1" alt="footer" />
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1e293b,50:4338ca,100:0f766e" alt="footer" />
 
 </div>
