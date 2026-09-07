@@ -15,10 +15,6 @@ I build **high-throughput, failure-tolerant systems** for workloads where latenc
 
 <img width="88%" src="https://github-widgetbox.vercel.app/api/profile?username=Enixes&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub profile stats" />
 
-<br><br>
-
-<img width="82%" src="https://streak-stats.demolab.com?user=Enixes&mode=week&theme=midnight-purple&border_radius=20&hide_border=true" alt="GitHub contribution streak" />
-
 </div>
 
 ---
