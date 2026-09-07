@@ -1,22 +1,23 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20&text=Asu%20Singh&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Distributed%20Systems%20%E2%80%A2%20Performance%20Engineering%20%E2%80%A2%20Applied%20AI&descAlignY=66&descSize=18" alt="Asu Singh" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=280&color=0:0f172a,45:312e81,100:0f766e&text=Asu%20Singh&fontSize=72&fontColor=ffffff&animation=scaleIn&fontAlignY=42&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Performance%20Engineering&descAlignY=65&descSize=18&stroke=94a3b8&strokeWidth=1" alt="Asu Singh" />
 
 <a href="https://linkedin.com/in/asusingh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/Enixes/portfolio-next"><img src="https://img.shields.io/badge/Portfolio-Explore-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+<a href="https://asusingh.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Live portfolio" /></a>
+<a href="https://github.com/Enixes/portfolio-next"><img src="https://img.shields.io/badge/Portfolio-Source-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio source code" /></a>
 <a href="mailto:itsasusingh@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br><br>
 
-<img width="92%" src="https://github-widgetbox.vercel.app/api/profile?username=Enixes&data=followers,repositories,stars,commits&theme=rgb" alt="GitHub profile stats" />
+I build **high-throughput, failure-tolerant systems** for workloads where latency, scale and reliability matter.
+
+<br>
+
+<img width="88%" src="https://github-widgetbox.vercel.app/api/profile?username=Enixes&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub profile stats" />
 
 <br><br>
 
-<img width="92%" src="https://github-widgetbox.vercel.app/api/skills?languages=java,python,csharp,cpp,js,ts,bash,postgresql,json,yaml&frameworks=next,dotnetcore&tools=git,docker,aws,gradle,jupyter&software=linux&includeNames=true&theme=rgb" alt="Technical skills" />
-
-<br><br>
-
-<img width="82%" src="https://streak-stats.demolab.com?user=Enixes&mode=week&theme=midnight-purple&border_radius=24&hide_border=true" alt="GitHub contribution streak" />
+<img width="82%" src="https://streak-stats.demolab.com?user=Enixes&mode=week&theme=midnight-purple&border_radius=20&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
@@ -73,7 +74,7 @@ Current questions include:
 | **Off-heap persistent caching · ION** | Removing inter-process calls · large performance improvements · memory architecture |
 | **Production analysis tooling** | Large-scale log parsing · incident diagnosis · production observability |
 | **[Hybrid Social Group Optimization](https://github.com/Enixes/Hybrid-Social-Group-Optimization-algorithm)** | Optimization · ML · medical-image classification · peer-reviewed research |
-| **[portfolio-next](https://github.com/Enixes/portfolio-next)** | Interactive engineering portfolio · Next.js · React |
+| **Portfolio — [Live](https://asusingh.vercel.app) · [Source](https://github.com/Enixes/portfolio-next)** | Interactive engineering portfolio · Next.js · React |
 
 ---
 
@@ -89,27 +90,37 @@ Peer-reviewed work applying a hybrid meta-heuristic optimization technique to me
 
 ---
 
-## 🧠 I like problems involving
+## 🛠️ Stack
+
+### Systems & backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+### Data, infrastructure & observability
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+---
+
+## 🧠 Problems I like working on
+
+`Distributed systems` · `Concurrency` · `Tail latency` · `Caching` · `JVM/runtime behaviour` · `Performance engineering` · `Failure recovery` · `Production observability` · `Applied ML`
+
+I’m especially interested in systems questions where **average-case performance hides the real operational story**.
+
+---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Distributed_Systems-111827?style=for-the-badge" alt="Distributed Systems" />
-<img src="https://img.shields.io/badge/Concurrency-312E81?style=for-the-badge" alt="Concurrency" />
-<img src="https://img.shields.io/badge/Tail_Latency-581C87?style=for-the-badge" alt="Tail Latency" />
-<img src="https://img.shields.io/badge/Caching-7C2D12?style=for-the-badge" alt="Caching" />
-<img src="https://img.shields.io/badge/JVM_Runtime-14532D?style=for-the-badge" alt="JVM Runtime" />
-<img src="https://img.shields.io/badge/Failure_Recovery-1E3A8A?style=for-the-badge" alt="Failure Recovery" />
-
-</div>
-
-<br>
-
-> I’m especially interested in systems where average-case performance hides the real operational story.
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0f172a,45:312e81,100:0f766e" alt="footer" />
 
 </div>
