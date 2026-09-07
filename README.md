@@ -104,7 +104,7 @@ Peer-reviewed work applying a hybrid meta-heuristic optimization technique to me
 ## 🧠 Problems I like working on
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=850&color=64748B&center=true&vCenter=true&repeat=true&width=700&height=52&lines=Distributed+systems;Concurrency+%26+multithreading;Tail+latency+%26+performance+engineering;Caching+%26+JVM+runtime+behaviour;Failure+recovery+%26+production+observability;Applied+machine+learning" alt="Engineering problems I like working on" />
+  <img width="100%" src="./assets/interests.svg" alt="Distributed systems, concurrency, tail latency, caching and JVM runtime behaviour, failure recovery and observability, and applied machine learning" />
 </div>
 
 I’m especially interested in systems questions where **average-case performance hides the real operational story**.
