@@ -1,14 +1,22 @@
 <div align="center">
 
-# Asu Singh
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20&text=Asu%20Singh&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Distributed%20Systems%20%E2%80%A2%20Performance%20Engineering%20%E2%80%A2%20Applied%20AI&descAlignY=66&descSize=18" alt="Asu Singh" />
 
-### Senior Software Engineer · Distributed Systems · Performance Engineering
+<a href="https://linkedin.com/in/asusingh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Enixes/portfolio-next"><img src="https://img.shields.io/badge/Portfolio-Explore-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:itsasusingh@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-I build **high-throughput, failure-tolerant production systems** for workloads where latency, scale and reliability matter.
+<br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asusingh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Source-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Enixes/portfolio-next)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsasusingh@gmail.com)
+<img width="92%" src="https://github-widgetbox.vercel.app/api/profile?username=Enixes&data=followers,repositories,stars,commits&theme=rgb" alt="GitHub profile stats" />
+
+<br><br>
+
+<img width="92%" src="https://github-widgetbox.vercel.app/api/skills?languages=java,python,csharp,cpp,js,ts,bash,postgresql,json,yaml&frameworks=next,dotnetcore&tools=git,docker,aws,gradle,jupyter&software=linux&includeNames=true&theme=rgb" alt="Technical skills" />
+
+<br><br>
+
+<img width="82%" src="https://streak-stats.demolab.com?user=Enixes&mode=week&theme=midnight-purple&border_radius=24&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
@@ -18,57 +26,54 @@ I build **high-throughput, failure-tolerant production systems** for workloads w
 
 <div align="center">
 
-![20x](https://img.shields.io/badge/TRADE_THROUGHPUT-20×-00A86B?style=for-the-badge)
-![50x](https://img.shields.io/badge/CACHE_ACCELERATION-UP_TO_50×-7C3AED?style=for-the-badge)
-![90pct](https://img.shields.io/badge/DOWNTIME_REDUCTION-90%25-2563EB?style=for-the-badge)
-![100gb](https://img.shields.io/badge/PRODUCTION_LOGS_ANALYSED-100_GB%2B-F59E0B?style=for-the-badge)
+<img src="https://img.shields.io/badge/TRADE_THROUGHPUT-20%C3%97-00A86B?style=for-the-badge" alt="20x throughput" />
+<img src="https://img.shields.io/badge/CACHE_ACCELERATION-UP_TO_50%C3%97-7C3AED?style=for-the-badge" alt="up to 50x cache acceleration" />
+<img src="https://img.shields.io/badge/DOWNTIME_REDUCTION-90%25-2563EB?style=for-the-badge" alt="90 percent downtime reduction" />
+<img src="https://img.shields.io/badge/PRODUCTION_LOGS-100_GB%2B-F59E0B?style=for-the-badge" alt="100 GB plus production logs" />
 
 </div>
 
+I’m a Senior Software Engineer at **ION Trading**, working on production systems where concurrency, latency, large data volumes, failure recovery and operational correctness matter.
+
 - Led a Java multithreading refactor that improved end-of-day trade processing by **20×**.
-- Built an off-heap persistent cache that accelerated supported workflows by **up to 50×**.
+- Built an off-heap persistent caching solution that accelerated supported workflows by **up to 50×**.
 - Automated recovery for halted processing, reducing operational downtime by **90%**.
 - Built tooling for **100 GB+ production logs**, reducing incident-triage time by **30%**.
 - Improved CI build time by **40%** while reducing AWS cost by **35%**.
 
-Most of this work sits inside a production trading platform, so the interesting problems are usually around **concurrency, failure recovery, data volume, latency and operational correctness**.
-
 ---
 
-## 🔭 What I’m working on now
+## 🔭 Current focus
 
-### [TailCache](https://github.com/Enixes/TailCache) — Tail-Latency Trade-offs in Java Caching
+### [TailCache](https://github.com/Enixes/TailCache) · Tail-Latency Trade-offs in Java Caching
 
-![Java 21](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JMH](https://img.shields.io/badge/JMH-Benchmarking-4B5563?style=flat-square)
-![Caffeine](https://img.shields.io/badge/Caffeine-On--Heap-22C55E?style=flat-square)
-![Chronicle Map](https://img.shields.io/badge/Chronicle_Map-Off--Heap-8B5CF6?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Research_in_Progress-2563EB?style=flat-square)
+<img src="https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+<img src="https://img.shields.io/badge/JMH-Benchmarking-4B5563?style=flat-square" alt="JMH" />
+<img src="https://img.shields.io/badge/Caffeine-On--Heap-22C55E?style=flat-square" alt="Caffeine" />
+<img src="https://img.shields.io/badge/Chronicle_Map-Off--Heap-8B5CF6?style=flat-square" alt="Chronicle Map" />
+<img src="https://img.shields.io/badge/Status-Research_in_Progress-2563EB?style=flat-square" alt="Research in progress" />
 
-A reproducible empirical systems project studying **Caffeine vs Chronicle Map** under identical deterministic workloads.
+A reproducible systems benchmarking project comparing **on-heap and off-heap Java caching** under controlled workloads, with emphasis on latency distributions rather than headline throughput.
 
-The questions I care about are not just “which is faster?” but:
+Current questions include:
 
-- When does off-heap memory improve **p99 / p99.9 latency stability**?
-- How much of that benefit is explained by **GC pressure**?
-- What memory and serialization costs does off-heap access introduce?
-- How sensitive is Chronicle Map to sizing assumptions?
-- Do the expected advantages survive controlled, repeatable experiments?
-
-> **Research rule:** a negative result is still a useful result if the experiment is sound.
+- how payload size changes cache-operation latency;
+- how on-heap and off-heap access differ at **p50 / p95 / p99 / p99.9**;
+- how GC pressure and value materialization affect tail behaviour;
+- whether observed differences remain stable across repeated runs.
 
 ---
 
 ## 🧩 Selected work
 
-| Project / system | What was interesting about it |
+| Project / system | Focus |
 |---|---|
-| **[TailCache](https://github.com/Enixes/TailCache)** | Tail latency, JVM memory behaviour, off-heap vs on-heap caching, reproducible benchmarking |
-| **XTP trading platform · ION** | High-throughput EOD processing, multithreading, event-driven workflows, failure recovery, production reliability |
-| **Off-heap persistent caching · ION** | Removing inter-process calls and improving supported workflows by up to **50×** |
-| **Production log analysis tooling** | Parsing **100 GB+** of logs and shortening incident diagnosis by **30%** |
-| **[Hybrid Social Group Optimization](https://github.com/Enixes/Hybrid-Social-Group-Optimization-algorithm)** | Meta-heuristic optimization applied to medical-image classification; peer-reviewed research |
-| **[portfolio-next](https://github.com/Enixes/portfolio-next)** | Experimental personal portfolio built with modern Next.js / React tooling |
+| **[TailCache](https://github.com/Enixes/TailCache)** | Java 21 · JMH · tail latency · JVM memory behaviour · reproducible benchmarking |
+| **Trading platform · ION** | High-throughput EOD processing · multithreading · event-driven workflows · failure recovery |
+| **Off-heap persistent caching · ION** | Removing inter-process calls · large performance improvements · memory architecture |
+| **Production analysis tooling** | Large-scale log parsing · incident diagnosis · production observability |
+| **[Hybrid Social Group Optimization](https://github.com/Enixes/Hybrid-Social-Group-Optimization-algorithm)** | Optimization · ML · medical-image classification · peer-reviewed research |
+| **[portfolio-next](https://github.com/Enixes/portfolio-next)** | Interactive engineering portfolio · Next.js · React |
 
 ---
 
@@ -78,43 +83,33 @@ The questions I care about are not just “which is faster?” but:
 
 **Cognitive Computation · Springer**
 
-My earlier research work applied a hybrid meta-heuristic optimization technique to medical-image classification. It gave me an early taste for a style of engineering I still prefer today: **define a measurable hypothesis, build the system, instrument it, and let the results decide**.
+Peer-reviewed work applying a hybrid meta-heuristic optimization technique to medical-image classification.
 
-→ [Research implementation](https://github.com/Enixes/Hybrid-Social-Group-Optimization-algorithm)
-
----
-
-## 🛠️ Stack
-
-### Systems & backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-### Data, infrastructure & observability
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+→ **[Research implementation](https://github.com/Enixes/Hybrid-Social-Group-Optimization-algorithm)**
 
 ---
 
-## 🧠 Problems I like working on
-
-`Distributed systems` · `Concurrency` · `Tail latency` · `Caching` · `JVM/runtime behaviour` · `Performance engineering` · `Failure recovery` · `Production observability` · `Applied ML`
-
-I’m especially interested in systems questions where **average-case performance hides the real operational story**.
-
----
+## 🧠 I like problems involving
 
 <div align="center">
 
-**6+ years building production software · Senior SDE @ ION Trading · India**
+<img src="https://img.shields.io/badge/Distributed_Systems-111827?style=for-the-badge" alt="Distributed Systems" />
+<img src="https://img.shields.io/badge/Concurrency-312E81?style=for-the-badge" alt="Concurrency" />
+<img src="https://img.shields.io/badge/Tail_Latency-581C87?style=for-the-badge" alt="Tail Latency" />
+<img src="https://img.shields.io/badge/Caching-7C2D12?style=for-the-badge" alt="Caching" />
+<img src="https://img.shields.io/badge/JVM_Runtime-14532D?style=for-the-badge" alt="JVM Runtime" />
+<img src="https://img.shields.io/badge/Failure_Recovery-1E3A8A?style=for-the-badge" alt="Failure Recovery" />
+
+</div>
+
+<br>
+
+> I’m especially interested in systems where average-case performance hides the real operational story.
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20" alt="footer" />
 
 </div>
