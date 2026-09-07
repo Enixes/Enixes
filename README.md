@@ -48,11 +48,9 @@ I’m a Senior Software Engineer at **ION Trading**, working on production syste
 
 ### [TailCache](https://github.com/Enixes/TailCache) · Tail-Latency Trade-offs in Java Caching
 
-<img src="https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
-<img src="https://img.shields.io/badge/JMH-Benchmarking-4B5563?style=flat-square" alt="JMH" />
-<img src="https://img.shields.io/badge/Caffeine-On--Heap-22C55E?style=flat-square" alt="Caffeine" />
-<img src="https://img.shields.io/badge/Chronicle_Map-Off--Heap-8B5CF6?style=flat-square" alt="Chronicle Map" />
-<img src="https://img.shields.io/badge/Status-Research_in_Progress-2563EB?style=flat-square" alt="Research in progress" />
+<p>
+  <img src="https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" /> <img src="https://img.shields.io/badge/JMH-Benchmarking-4B5563?style=flat-square" alt="JMH" /> <img src="https://img.shields.io/badge/Caffeine-On--Heap-22C55E?style=flat-square" alt="Caffeine" /> <img src="https://img.shields.io/badge/Chronicle_Map-Off--Heap-8B5CF6?style=flat-square" alt="Chronicle Map" /> <img src="https://img.shields.io/badge/Status-Research_in_Progress-2563EB?style=flat-square" alt="Research in progress" />
+</p>
 
 A reproducible systems benchmarking project comparing **on-heap and off-heap Java caching** under controlled workloads, with emphasis on latency distributions rather than headline throughput.
 
