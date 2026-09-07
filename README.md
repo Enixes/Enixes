@@ -76,7 +76,7 @@ Current questions include:
 
 Peer-reviewed work applying a hybrid meta-heuristic optimization technique to medical-image classification.
 
-→ **[Research implementation](https://github.com/Enixes/Hybrid-Social-Group-Optimization-algorithm)**
+**[Paper](https://link.springer.com/article/10.1007/s12559-021-09848-3)** · **[Code](https://github.com/Enixes/Hybrid-Social-Group-Optimization-algorithm)**
 
 ---
 
@@ -103,7 +103,9 @@ Peer-reviewed work applying a hybrid meta-heuristic optimization technique to me
 
 ## 🧠 Problems I like working on
 
-`Distributed systems` · `Concurrency` · `Tail latency` · `Caching` · `JVM/runtime behaviour` · `Performance engineering` · `Failure recovery` · `Production observability` · `Applied ML`
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=850&color=64748B&center=true&vCenter=true&repeat=true&width=700&height=52&lines=Distributed+systems;Concurrency+%26+multithreading;Tail+latency+%26+performance+engineering;Caching+%26+JVM+runtime+behaviour;Failure+recovery+%26+production+observability;Applied+machine+learning" alt="Engineering problems I like working on" />
+</div>
 
 I’m especially interested in systems questions where **average-case performance hides the real operational story**.
 
